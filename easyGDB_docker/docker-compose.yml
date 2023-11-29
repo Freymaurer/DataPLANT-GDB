@@ -2,13 +2,17 @@ version: "3.9"
 
 services:
   easy_gdb:
-    container_name: easy_gdb
+    container_name: ohadii_chlorella_gdb
     build:
       context: .
     ports:
       - "8000:80"
     volumes:
       - ./src:/var/www/html
+      # path to postgress init data
+      - ./db_init:/docker-entrypoint-initdb.d
+    environment:
+      - POSTGRES_USERPW=Ch1llyD0g%
   DB:
     image: postgres
     container_name: DB
