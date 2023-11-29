@@ -26,6 +26,11 @@
 				"more_info":[
 					"Shamoon College of Engineering"
 					]
+			},
+      {"person_name":"DataPLANT","picture":"DataPLANT_logo_square_bg_black.svg",
+				"more_info":[
+					"RPTU Kaiserslautern"
+					]
 			}
 		]
 }
