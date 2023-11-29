@@ -1,0 +1,18 @@
+{
+	"group_name":"The Treves Lab",
+	"people":
+		[
+			{"person_name":"Haim Treves","position":"Principal Investigator","picture":"placeholder2.png","link":"person.php",
+				"more_info":[
+					"Website: https://www.treveslab.com/",
+					"email: htreves@tauex.tau.ac.il"
+				]
+			},
+		  {"person_name":"Or Geffen","position":"PhD student","picture":"placeholder1.png",
+				"more_info":[
+					"School of Plant Sciences and Food Security",
+					"Tel-Aviv University"
+					]
+			}
+		]
+}

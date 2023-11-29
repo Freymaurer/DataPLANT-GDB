@@ -1,0 +1,198 @@
+=head2 Mon Apr 18 08:02:49 2022: C<Module> L<PerlIO::gzip|PerlIO::gzip>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:02:52 2022: C<Module> L<Heap::Simple::XS|Heap::Simple::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:03:02 2022: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.643>
+
+=item *
+
+C<EXE_FILES: dbilogstrip dbiprof dbiproxy>
+
+=back
+
+=head2 Mon Apr 18 08:03:44 2022: C<Module> L<DBD::SQLite|DBD::SQLite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.70>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:03:47 2022: C<Module> L<libxml-perl|libxml-perl>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:03:48 2022: C<Module> L<XML::DOM|XML::DOM>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:03:48 2022: C<Module> L<XML::DOM::XPath|XML::DOM::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:03:49 2022: C<Module> L<Bio::FeatureIO|Bio::FeatureIO>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.6.905>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 08:03:51 2022: C<Module> L<Devel::Size|Devel::Size>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.83>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

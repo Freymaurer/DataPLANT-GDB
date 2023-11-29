@@ -1,0 +1,31 @@
+{
+	"group_name":"Other contributors",
+	"people":
+		[
+			{"person_name":"Aaron Kaplan","picture":"placeholder2.png",
+				"more_info":[
+					"The Hebrew University of Jerusalem"
+					]
+			},
+			{"person_name":"Omer Murik","picture":"placeholder2.png",
+				"more_info":[
+					"The Hebrew University of Jerusalem"
+					]
+			},
+			{"person_name":"Stephan Rensing","picture":"placeholder2.png",
+				"more_info":[
+					"University of Marburg"
+					]
+			},
+			{"person_name":"Noe Fernandez-Pozo","picture":"placeholder2.png",
+				"more_info":[
+					"University of Marburg"
+				]
+			},
+			{"person_name":"Yoram Shotland","picture":"placeholder2.png",
+				"more_info":[
+					"Shamoon College of Engineering"
+					]
+			}
+		]
+}

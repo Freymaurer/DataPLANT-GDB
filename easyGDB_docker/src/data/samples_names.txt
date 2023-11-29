@@ -1,0 +1,30 @@
+Samples :
+TAP0#1
+TAP0#2
+TAP0#3
+TAPHL120#1
+TAPHL120#2
+TAPHL120#3
+TAPHL15#1
+TAPHL15#2
+TAPHL15#3
+TP0#1
+TP0#2a
+TP120#1
+TP120#2
+TP120#3
+TP15#1
+TP15#2
+TP15#3
+TPHL120#1
+TPHL15#1
+TPHL15#2
+
+
+TAP/TP - medium used (with/without acetate)
+0/15/120 - minutes after shift to high-light/TP
+# - replicate number
+
+for each sample there are 3 FASTQ files : 2 paired-end, and one single-end which are reads that lost their pair during quality trimming.
+
+

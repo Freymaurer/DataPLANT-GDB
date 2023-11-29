@@ -1,0 +1,3 @@
+[["g10943.t1"],"Cohadii_gene_models","g10943.t1","scaffold288size18912",0,6099]
+[["g10944.t1"],"Cohadii_gene_models","g10944.t1","scaffold288size18912",8985,10040]
+[["g10945.t1"],"Cohadii_gene_models","g10945.t1","scaffold288size18912",12546,17060]

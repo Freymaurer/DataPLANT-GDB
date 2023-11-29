@@ -1,0 +1,13 @@
+{
+  "logos":
+    [
+      { "image":"logo1.png",
+        "link":"https://english.tau.ac.il/",
+        "height":"60"
+      },
+      { "image":"logo2.png",
+        "link":"https://en-lifesci.tau.ac.il/",
+        "height":"60"
+      }
+    ]
+}

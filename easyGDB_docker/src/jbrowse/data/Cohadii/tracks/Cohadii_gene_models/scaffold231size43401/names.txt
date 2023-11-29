@@ -1,0 +1,7 @@
+[["g10525.t1"],"Cohadii_gene_models","g10525.t1","scaffold231size43401",506,4410]
+[["g10526.t1"],"Cohadii_gene_models","g10526.t1","scaffold231size43401",5125,24562]
+[["g10527.t1"],"Cohadii_gene_models","g10527.t1","scaffold231size43401",24865,28040]
+[["g10528.t1"],"Cohadii_gene_models","g10528.t1","scaffold231size43401",28041,31000]
+[["g10529.t1"],"Cohadii_gene_models","g10529.t1","scaffold231size43401",31255,34360]
+[["g10530.t1"],"Cohadii_gene_models","g10530.t1","scaffold231size43401",34364,38160]
+[["g10531.t1"],"Cohadii_gene_models","g10531.t1","scaffold231size43401",38425,41630]

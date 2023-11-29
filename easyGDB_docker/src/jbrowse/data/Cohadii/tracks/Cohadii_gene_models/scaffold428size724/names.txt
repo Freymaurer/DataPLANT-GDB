@@ -1,0 +1,1 @@
+[["g11034.t1"],"Cohadii_gene_models","g11034.t1","scaffold428size724",0,630]

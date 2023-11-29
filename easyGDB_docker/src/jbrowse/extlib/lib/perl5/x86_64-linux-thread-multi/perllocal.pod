@@ -1,0 +1,836 @@
+=head2 Mon Apr 18 07:56:20 2022: C<Module> L<Class::Data::Inheritable|Class::Data::Inheritable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:22 2022: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:23 2022: C<Module> L<Exception::Class|Exception::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:25 2022: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.130>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:27 2022: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2800>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:28 2022: C<Module> L<Test::Exception|Test::Exception>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.43>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:29 2022: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:32 2022: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:35 2022: C<Module> L<Algorithm::Diff|Algorithm::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.201>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:35 2022: C<Module> L<Text::Diff|Text::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:36 2022: C<Module> L<Test::Differences|Test::Differences>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.69>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:36 2022: C<Module> L<Test::Most|Test::Most>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:40 2022: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:47 2022: C<Module> L<IO::String|IO::String>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:56:49 2022: C<Module> L<Data|Data>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: scripts/stag-autoschema.pl scripts/stag-db.pl scripts/stag-diff.pl scripts/stag-drawtree.pl scripts/stag-filter.pl scripts/stag-findsubtree.pl scripts/stag-flatten.pl scripts/stag-grep.pl scripts/stag-handle.pl scripts/stag-itext2simple.pl scripts/stag-itext2simple.pl scripts/stag-itext2sxpr.pl scripts/stag-itext2xml.pl scripts/stag-join.pl scripts/stag-merge.pl scripts/stag-mogrify.pl scripts/stag-parse.pl scripts/stag-query.pl scripts/stag-splitter.pl scripts/stag-view.pl scripts/stag-xml2itext.pl>
+
+=back
+
+=head2 Mon Apr 18 07:58:13 2022: C<Module> L<File::Copy::Recursive|File::Copy::Recursive>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:15 2022: C<Module> L<File::ReadBackwards|File::ReadBackwards>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:15 2022: C<Module> L<Bio::GFF3|Bio::GFF3>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.0>
+
+=item *
+
+C<EXE_FILES: bin/gff3_from_fasta>
+
+=back
+
+=head2 Mon Apr 18 07:58:26 2022: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:28 2022: C<Module> L<Date::Parse|Date::Parse>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:30 2022: C<Module> L<Time::Local|Time::Local>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:30 2022: C<Module> L<HTTP::Date|HTTP::Date>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:31 2022: C<Module> L<IO::HTML|IO::HTML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:33 2022: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:37 2022: C<Module> L<Net::HTTP|Net::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:42 2022: C<Module> L<HTML::Tagset|HTML::Tagset>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:43 2022: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:45 2022: C<Module> L<File::Listing|File::Listing>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:48 2022: C<Module> L<WWW::RobotRules|WWW::RobotRules>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:50 2022: C<Module> L<XML::RegExp|XML::RegExp>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:53 2022: C<Module> L<XML::XPathEngine|XML::XPathEngine>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:56 2022: C<Module> L<File::Slurp::Tiny|File::Slurp::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:56 2022: C<Module> L<Tree::DAG_Node|Tree::DAG_Node>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:58:59 2022: C<Module> L<Heap::Simple|Heap::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:59:01 2022: C<Module> L<File::Next|File::Next>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:59:04 2022: C<Module> L<Clone::Choose|Clone::Choose>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:59:05 2022: C<Module> L<Hash::Merge|Hash::Merge>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.302>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Apr 18 07:59:06 2022: C<Module> L<Digest::Crc32|Digest::Crc32>
+
+=over 4
+
+=item *
+
+C<installed into: /home/omer/example_db/jbrowse/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

@@ -1,0 +1,1 @@
+[["g11010.t1"],"Co_gene_models","g11010.t1","scaffold357size2623",0,890]

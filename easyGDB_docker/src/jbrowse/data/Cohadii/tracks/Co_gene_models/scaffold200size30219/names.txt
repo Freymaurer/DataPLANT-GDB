@@ -1,0 +1,4 @@
+[["g10076.t1"],"Co_gene_models","g10076.t1","scaffold200size30219",0,12473]
+[["g10077.t1"],"Co_gene_models","g10077.t1","scaffold200size30219",13146,14190]
+[["g10078.t1"],"Co_gene_models","g10078.t1","scaffold200size30219",14525,17730]
+[["g10079.t1"],"Co_gene_models","g10079.t1","scaffold200size30219",17806,29390]
