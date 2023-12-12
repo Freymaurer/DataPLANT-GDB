@@ -22,6 +22,7 @@ RUN cpanm Term::ReadKey
 RUN cpanm DBD::Pg
 
 COPY ./easy_gdb_apache.conf /etc/apache2/sites-enabled/000-default.conf
+COPY ./src /var/www/html
 
 
 # Needed for JBrowse

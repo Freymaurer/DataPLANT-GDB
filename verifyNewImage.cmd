@@ -1,0 +1,1 @@
+docker-compose -f easyGDB_docker\docker.compose.new.yml up 
