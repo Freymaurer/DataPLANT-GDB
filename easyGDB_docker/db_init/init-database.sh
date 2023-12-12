@@ -1,1 +1,0 @@
-sudo -u postgres psql -c "ALTER USER web_usr PASSWORD '${POSTGRES_USERPW}';"

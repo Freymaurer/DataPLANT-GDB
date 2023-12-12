@@ -43,6 +43,12 @@ SET default_tablespace = '';
 
 SET default_table_access_method = heap;
 
+CREATE ROLE web_usr WITH LOGIN ENCRYPTED PASSWORD 'tmp_password' CREATEDB;
+CREATE DATABASE annot1;
+
+\c annot1; 
+
+CREATE EXTENSION pg_trgm;
 --
 -- Name: annotation; Type: TABLE; Schema: public; Owner: postgres
 --
