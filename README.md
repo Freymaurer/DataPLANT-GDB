@@ -16,7 +16,7 @@ name: dataplant_gdb
 
 services:
   easy_gdb:
-    image: ohadii_chlorella_gdb:latest
+    image: csbdocker/ohadii_chlorella_gdb:latest
     container_name: gdb-test
     build:
       context: .
@@ -28,7 +28,7 @@ services:
       # This must equal the docker compose name of the postgres service
       - POSTGRES_DB=postgres-db
   postgres-db:
-    image: ohadii_chlorella_postgres:latest
+    image: csbdocker/ohadii_chlorella_postgres:latest
     container_name: postgres-test
     volumes:
       - ./postgres-data:/var/lib/postgresql/data
