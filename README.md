@@ -53,7 +53,7 @@ This docker compose example will store all postgres db data in a mounted volume 
 - **docker image names** are set in `SharedLiterals`, and referenced in `easyGDB_docker/docker.compose.new.yml`.
 - **postgres initial database** is set from files in `easyGDB_docker/db_init`
 
-# Scripts
+# Development Scripts
 
 ## Create new images from dev version
 
