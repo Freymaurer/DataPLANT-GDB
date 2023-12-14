@@ -59,7 +59,7 @@ This docker compose example will store all postgres db data in a mounted volume 
 
 This will only create new local images!
 
-1. Run `.\createNewDockerImage.cmd` (will create new images from src with *new* tag)
+1. Run `.\createNewDockerImage.cmd` (will create new images from src with ":new" tag)
 2. Verify image by building container with `verifyNewImage.cmd`. 👀 Remember to delete `easyGDB_docker/postgres-data` to reset db and verify correct db setup.
 
 ## Publish to docker-hub
